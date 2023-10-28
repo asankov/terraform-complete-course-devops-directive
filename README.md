@@ -15,3 +15,7 @@ GitHub repo for the course - [here](https://github.com/sidpalas/devops-directive
 7. Managing Multiple Environments
 8. Testing Terraform Code
 9. Developer Workflows and Automation
+
+## Books to Read
+
+- Terraform: Up & Running, Writing Infrastructure as Code, Second Edition
