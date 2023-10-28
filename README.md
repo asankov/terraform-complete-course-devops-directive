@@ -7,10 +7,10 @@ GitHub repo for the course - [here](https://github.com/sidpalas/devops-directive
 ## Table of Contents
 
 1. [Evolution of Cloud + Infrastructure as Code](./01-evolution-of-cloud/)
-2. Terraform Overview + Setup
+2. [Terraform Overview + Setup](./02-terraform-overview/)
 3. Basic Terraform Usage
 4. Variables and Outputs
-5. Additional Language Features
+5. Additional Language Featuresg
 6. Project Organization + Modules
 7. Managing Multiple Environments
 8. Testing Terraform Code
